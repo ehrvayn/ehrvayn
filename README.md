@@ -1,6 +1,16 @@
-Hi there! I'm Ehrvayn Rayven P. Olivera
-Aspiring Full Stack Web & Mobile Developer
-I am a 3rd-year BSIS student at Naga College Foundation with a passion for building functional, user-centric applications. I thrive on "learning by doing"—breaking down complex problems, exploring new tools, and leveraging AI to build smarter, more efficient solutions. I am currently seeking opportunities to apply my development skills within a professional team and contribute to real-world projects.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ehrvayn Rayven P. Olivera
+
+==================================================================================================================================================
+
+
+
+Aspiring Full Stack Web Developer | Mobile Developer
+
+----------------------------------------------------
+
+
+
+I am a 3rd-year BSIS student at Naga College Foundation and a hands-on Full Stack Developer who thrives on turning ideas into functional web applications. I’m a "learn-by-doing" builder who enjoys breaking down complex problems and leveraging AI tools to work more efficiently. At 22, I am eager to bring my passion for building real-world solutions to a professional team where I can apply my skills and continue growing.
 
 🛠️ Tech Stack
 Frontend Development
