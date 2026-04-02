@@ -43,7 +43,7 @@ Tools & Infrastructure
 🚀 Get in Touch
 🌍 Location: Naga City, Camarines Sur
 
-💼 Portfolio: ehrvayn.vercel.app
+💼 Portfolio: <a href="https://ehrvayn.vercel.app">ehrvayn.vercel.app</a>
 
 📧 Email: rjmomong@gmail.com
 
