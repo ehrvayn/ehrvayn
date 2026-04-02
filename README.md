@@ -8,7 +8,7 @@ Aspiring Full Stack Web Developer | Mobile Developer
 
 I am a 3rd-year BSIS student at Naga College Foundation and a hands-on Full Stack Developer who thrives on turning ideas into functional web applications. I’m a "learn-by-doing" builder who enjoys breaking down complex problems and leveraging AI tools to work more efficiently. At 22, I am eager to bring my passion for building real-world solutions to a professional team where I can apply my skills and continue growing.
 
-🛠️ Tech Stack
+🛠️ Tech Stack<br>
 Frontend Development
 
 <p align="left">
