@@ -1,19 +1,14 @@
 <div align="center">
 
-$ whoami
-
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=560&lines=Ehrvayn+Rayven+P.+Olivera;Full+Stack+Developer;BSIS+%40+Naga+College+Foundation;Builds+things+end-to-end." alt="Typing SVG" />
 
 </div>
 
 <br>
 
-SYSTEM SPEC
-───────────────────────────────
-Full Stack Developer
-3rd-Year BSIS Student, Naga College Foundation
-Naga City, Camarines Sur
+Full Stack Developer<br>
+3rd-Year BSIS Student, Naga College Foundation<br>
+Naga City, Camarines Sur<br>
 
 
 I build full stack — frontend, backend, database — and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
