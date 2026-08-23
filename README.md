@@ -11,7 +11,7 @@ Full Stack Developer<br>
 Naga City, Camarines Sur<br>
 
 
-I build full stack — frontend, backend, database — and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
+I build full stack frontend, backend, database and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
 
 ---
 
