@@ -50,5 +50,5 @@ I build full stack web applications and I'd rather break something real and fix 
 </div>
 
 <div align="center">
-<sub>Reach out</sub>
+<sub>Reach out to me.</sub>
 </div>
