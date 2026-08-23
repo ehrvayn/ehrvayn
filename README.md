@@ -50,5 +50,5 @@ I build full stack web applications and I'd rather break something real and fix 
 </div>
 
 <div align="center">
-<sub>Compiled without errors. Mostly.</sub>
+<sub>Reach out</sub>
 </div>
