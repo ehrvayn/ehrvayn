@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=560&lines=Ehrvayn+Rayven+P.+Olivera;Full+Stack+Developer;BSIS+%40+Naga+College+Foundation;Builds+things+end-to-end." alt="Typing SVG" />
 
@@ -11,7 +11,7 @@ Full Stack Developer<br>
 Naga City, Camarines Sur<br>
 
 
-I build full stack frontend, backend, database and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
+I build full stack web applications and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
 
 ---
 
