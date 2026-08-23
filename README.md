@@ -40,14 +40,6 @@ I build full stack frontend, backend, database and I'd rather break something re
 
 ---
 
-### 📊 Uptime
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rayvenpogi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-streak-stats.demolab.com?user=rayvenpogi&theme=github-dark-blue&hide_border=true&background=0D1117" height="165" />
-</div>
-
----
 
 <div align="center">
 
