@@ -5,11 +5,11 @@
 <br>
 
 Aspiring Full Stack Developer<br>
-4rd-Year BSIS Student, Naga College Foundation<br>
+4th-Year BSIS Student, Naga College Foundation<br>
 Naga City, Camarines Sur<br>
 
 
-I build full stack web & mobile applications and I'd rather break something real and fix it than stay in tutorial mode. I use AI tools deliberately, as a way to move faster without skipping the parts that actually teach me something. Looking for a team where I can put that habit to work on real problems.
+4th-year BS Information Systems student at Naga College Foundation Inc. who loves building full stack web and mobile apps and learns by doing. I use AI tools to work smarter and build faster. Right now I’m looking for an opportunity to apply my skills in a real project.
 
 ---
 
