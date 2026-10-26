@@ -5,7 +5,7 @@
 <br>
 
 Aspiring Full Stack Developer<br>
-4th-Year BSIS Student, Naga College Foundation<br>
+BSIS Student, Naga College Foundation<br>
 Naga City, Camarines Sur<br>
 
 
