@@ -6,8 +6,7 @@
 
 <table align="center" border="1">
   <tr>
-    <td align="center">
-      
+    <td align="center">   
 ### STACK
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -37,7 +36,6 @@
 <div align="center">
 
 <sub>Reach out to me.</sub>
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/rayvenpogi)
