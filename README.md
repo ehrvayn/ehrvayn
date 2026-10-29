@@ -8,7 +8,7 @@
 
 <br>
 
-<table align="center" border="1">
+<table align="center" border="1" cellpadding="12">
   <tr>
     <td align="center">  
       
