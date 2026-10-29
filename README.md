@@ -2,12 +2,14 @@
 
 <br>
 
-4th-year BS Information Systems student at Naga College Foundation Inc. who loves building full stack web and mobile apps and learns by doing. I use AI tools to work smarter and build faster. Right now I’m looking for an opportunity to apply my skills in a real project.
+4th-year BS Information Systems student at Naga College Foundation Inc. who loves building full stack web and mobile apps and learns by doing. I use AI tools to work smarter and build faster. Right now I'm looking for an opportunity to apply my skills in a real project.
 
 ---
 
-<div align="center" border=1>
-  
+<table align="center" border="1">
+  <tr>
+    <td align="center">
+
 ### STACK
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,19 +33,17 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+    </td>
+  </tr>
+</table>
+
 ---
-</div>
-
-
 
 <div align="center">
 
-<div align="center">
 <sub>Reach out to me.</sub>
-  
-<br>
 
-</div>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/rayvenpogi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rjmomong@gmail.com)
