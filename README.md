@@ -4,8 +4,6 @@
 
 4th-year BS Information Systems student at Naga College Foundation Inc. who loves building full stack web and mobile apps and learns by doing. I use AI tools to work smarter and build faster. Right now I'm looking for an opportunity to apply my skills in a real project.
 
----
-
 <table align="center" border="1">
   <tr>
     <td align="center">
@@ -35,8 +33,6 @@
 
   </tr>
 </table>
-
----
 
 <div align="center">
 
