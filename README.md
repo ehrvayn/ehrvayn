@@ -42,6 +42,11 @@
 </table>
 
 <div align="center">
+  <img src="https://res.cloudinary.com/dlvcjwfjm/image/upload/v1793266601/stack.svg" alt="Tech Stack" width="644"/>
+</div>
+
+
+<div align="center">
 
 <sub>Reach out to me.</sub>
 <br>
