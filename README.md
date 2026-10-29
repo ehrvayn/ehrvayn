@@ -6,7 +6,7 @@
 
 <table align="center" border="1">
   <tr>
-    <td align="center">  
+    <td align="center" paddingBottom="5">  
       
 ### STACK
 
@@ -32,7 +32,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
   </tr>
-<br>
   
 </table>
 
