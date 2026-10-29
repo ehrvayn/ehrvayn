@@ -6,7 +6,7 @@
 
 ---
 
-<div align="center">
+<div align="center" border>
   
 ### STACK
 
