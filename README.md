@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dlvcjwfjm/image/upload/v1793266799/stack_1.svg" alt="Tech Stack"/>
+  <img src="https://res.cloudinary.com/dlvcjwfjm/image/upload/v1793266946/stack-marquee.svg" alt="Tech Stack"/>
 </div>
 
 
