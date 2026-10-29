@@ -16,12 +16,16 @@
 
 <div align="center">
 
-<sub>Reach out to me.</sub>
-<br>
+
+
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ehrvayn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehrvayn-rayven-olivera-7228a83b2)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ehrvayn.rayven.1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ehrvayn.vercel.app)
+
+<br>
+
+<sub>Reach out to me.</sub>
 
 </div>
