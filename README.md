@@ -42,7 +42,7 @@
 </table>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dlvcjwfjm/image/upload/v1793266799/stack_1.svg" alt="Tech Stack" width="644"/>
+  <img src="https://res.cloudinary.com/dlvcjwfjm/image/upload/v1793266799/stack_1.svg" alt="Tech Stack"/>
 </div>
 
 
