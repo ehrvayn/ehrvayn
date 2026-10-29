@@ -38,14 +38,14 @@
 
 <div align="center">
 
+<div align="center">
+<sub>Reach out to me.</sub>
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/rayvenpogi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rjmomong@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehrvayn-rayven-olivera-7228a83b2)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ehrvayn.rayven.1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ehrvayn.vercel.app)
 
-</div>
-
-<div align="center">
-<sub>Reach out to me.</sub>
 </div>
