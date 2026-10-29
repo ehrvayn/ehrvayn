@@ -32,6 +32,8 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
   </tr>
+<br>
+  
 </table>
 
 <div align="center">
