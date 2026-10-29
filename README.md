@@ -6,7 +6,7 @@
 
 <table align="center" border="1">
   <tr>
-    <td align="center" paddingBottom="5">  
+    <td align="center">  
       
 ### STACK
 
