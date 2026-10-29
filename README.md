@@ -16,7 +16,7 @@
 
 <div align="center">
 
-
+<br>
 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ehrvayn@gmail.com)
@@ -24,7 +24,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ehrvayn.rayven.1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ehrvayn.vercel.app)
 
-<br>
+
 
 <sub>Reach out to me.</sub>
 
