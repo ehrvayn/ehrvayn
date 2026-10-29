@@ -7,7 +7,7 @@
 ---
 
 <table align="center" border="1">
-  <tr>
+  <tr align="center">
 
 ### STACK
 
